@@ -11,10 +11,10 @@
 
 @theme{
     /* Colors */
-    --color-primary-bg: #1A2D40; /*Primary Background Color (Dark/Deep)*/
-    --color-secondary-bg: #2B4353; /*Secondary Background/Section Color*/
-    --color-accent: #FF7F50; /*Accent Color*/
-    --color-secondary-accent: #FFB347; /*Secondary Accent/Highlight Color*/
-    --color-primary-text: #F8F8F8; /*Primary Text Color*/
-    --color-secondary-text: #BFC4C7; /*Secondary Text/Subtle Elements Color*/
+    --color-primary-bg: #1A2D40; /*Primary Background Color (Dark/Deep)*/ /*dark purple/black*/
+    --color-secondary-bg: #2B4353; /*Secondary Background/Section Color*/ 
+    --color-accent: #FF7F50; /*Accent Color*/ /*green highlights*/
+    --color-secondary-accent: #FFB347; /*Secondary Accent/Highlight Color*/ /*lighter purple*/
+    --color-primary-text: #F8F8F8; /*Primary Text Color*/ /**/
+    --color-secondary-text: #BFC4C7; /*Secondary Text/Subtle Elements Color*/ /**/
 }
