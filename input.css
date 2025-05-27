@@ -1,6 +1,8 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
 @tailwind utilities;
+
 
 /* Flowbite */
 @import "flowbite/src/themes/default";
